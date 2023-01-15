@@ -1,0 +1,13 @@
+[package]
+authors = ["golmman"]
+description = "Library for 2 dimensional cave generation"
+documentation = "https://docs.rs/cavegen"
+edition = "2021"
+homepage = "https://github.com/golmman/cavegen"
+keywords = ["2d", "graphics", "gamedev", "generator"]
+license = "MIT"
+name = "cavegen"
+repository = "https://github.com/golmman/cavegen"
+version = "0.1.0"
+
+[dependencies]

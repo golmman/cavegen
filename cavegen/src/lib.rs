@@ -1,3 +1,3 @@
-fn main() {
+pub fn generate() {
     println!("Hello, world!");
 }
