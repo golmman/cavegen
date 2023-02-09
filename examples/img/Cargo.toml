@@ -1,8 +1,9 @@
 [package]
-name = "image"
+name = "img"
 version = "0.1.0"
 edition = "2021"
 publish = false
 
 [dependencies]
 cavegen = { path = "../../cavegen/" }
+image = "0.24.5"

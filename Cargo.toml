@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "examples/image",
+    "examples/img",
     "cavegen",
 ]
